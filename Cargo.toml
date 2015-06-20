@@ -1,0 +1,4 @@
+[package]
+name = "prast"
+version = "0.1.0"
+authors = ["Thiago Pontes <email@thiago.me>"]
